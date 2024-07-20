@@ -1,21 +1,31 @@
 nav {
+  --pb: 1rem;
+  --pi: 1rem;
+
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-block: 20px;
   line-height: 0;
+
+  padding-block: var(--pb);
+  padding-inline: var(--pi);
+
+  & .item-menu {
+    margin-left: auto;
+  }
+
+  & ul li:last-child img {
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: cover;
+  }
 }
 
-nav ul {
-  list-style: none;
-  display: flex;
-  align-items: center;
-  gap: 24px;
-  padding-block: 8px;
-}
+@media (width >= 80em) {
+  nav {
+    --pb: 1.25rem;
+    --pi: 2rem;
 
-nav ul li:last-child img{
-  width: 40px;
-  height: 40px;
-  object-fit: cover;
+    & li.desktop-only {
+      display: initial;
+    }
+  }
 }
