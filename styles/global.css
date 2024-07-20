@@ -8,7 +8,7 @@
   --text-color-secundary: #6c6c6c;
 
   --font-family: "Poppins", sans-serif;
-  --text-lg: bold 32px/125% var(--font-family);
+  --text-lg: bold 2rem/125% var(--font-family);
   --text: 16px/150% var(--font-family);
   --text-md: 14px/170% var(--font-family);
   --text-sm: 12px/170% var(--font-family);
@@ -28,11 +28,11 @@ body {
 a {
   text-decoration: none;
   color: inherit;
-  transition: 0.4s;
+  transition: 0.4s ease-in-out;
 }
 
 a:hover {
-  transition: 0.4s;
+  transition: 0.4s ease-in-out;
   color: var(--brand-color);
 }
 
