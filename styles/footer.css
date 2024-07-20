@@ -11,7 +11,7 @@ footer{
   flex-wrap: wrap;
 }
 
-@media (width >= 80em){
+@media (width >= 80rem){
   footer{
     --pd-i: 2rem;
     --pd-b: 1.5rem;

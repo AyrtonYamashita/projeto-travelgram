@@ -37,9 +37,10 @@ header {
   }
 }
 
-@media (width >= 80em) {
+@media (width >= 80rem) {
   #profile {
     align-items: center;
+    margin-left: 5rem;
     width: 100%;
     --gap: 2rem;
     --fs: bold 2rem/125% var(--font-family);

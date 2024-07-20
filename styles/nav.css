@@ -19,7 +19,7 @@ nav {
   }
 }
 
-@media (width >= 80em) {
+@media (width >= 80rem) {
   nav {
     --pb: 1.25rem;
     --pi: 2rem;
