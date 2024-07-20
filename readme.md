@@ -1,15 +1,14 @@
-<center><a href="https://github.com/AyrtonYamashita/projeto-travelgram"><img src="./assets/icons/Logo.svg"></a></center>
+<p align="center"><a href="https://github.com/AyrtonYamashita/projeto-travelgram"><img src="./assets/icons/Logo.svg"></a></p>
 
-## <center>Página com layout de um perfil de viagens</center>
+## <p align="center">Página com layout de um perfil de viagens</p>
 
-<center><b>TÓPICOS</b></center>
-<br>
-<center><sub>
+<p align="center"><b>TÓPICOS</b></p>
+<p align="center"><sub>
 <a href="#-tecnologias">TECNOLOGIAS</a> | 
 <a href="#️-ferramentas">FERRAMENTAS</a> |
 <a href="#️-estrutura">ESTRUTURA</a> |
 <a href="#-apresentação">APRESENTAÇÃO</a> | 
-<a href="#-changelog">ATUALIZAÇÕES</a></sub></center>
+<a href="#-changelog">ATUALIZAÇÕES</a></sub></p>
 
 ---
 
@@ -42,7 +41,7 @@ O site apresenta um perfil fictício de uma usuária da plataforma também fict�
 
 ## 🔃 CHANGELOG
 
-26/06/2024 - Site inserido no github apenas com HTML e CSS.
-19/07/2024 - Site refatorado para responsividade em dispositivos móveis.
-19/07/2024 - Site publicado.
-19/07/2024 - Adicionado README.md
+26/06/2024 - Site inserido no github apenas com HTML e CSS. <br>
+19/07/2024 - Site refatorado para responsividade em dispositivos móveis. <br>
+19/07/2024 - Site publicado. <br>
+19/07/2024 - Adicionado README.md <br>
