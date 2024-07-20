@@ -29,7 +29,7 @@ Iniciando na parte dos códigos, foi utilizado o <b><a href="https://vscode.dev/
 
 ## 🏗️ ESTRUTURA
 
-O formulário de inscrição possui uma estrutura básica já que está no seu processo inicial de desenvolvimento, a parte que possui um pouco mais de cuidado em relação a estruturação é a organização de classes e estilos no CSS e a separação de assets do site. <br>
+O site possui uma organização estrutural em hierarquia de pastas para assets/icons/images assim como um index.css e outros demais que são adicionados de acordo com a necessidad do projeto. <br>
 
 ## 📺 APRESENTAÇÃO
 
